@@ -5,6 +5,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 2. Comments and Pound Characters]
 * [Exercise 3. Numbers and Math]
 * [Exercise 4. Variables and Names]
+* [Exercise 5. More Variables and Printing]
 
 License
 ----
@@ -14,3 +15,4 @@ MIT
 [Exercise 2. Comments and Pound Characters]: <02/>
 [Exercise 3. Numbers and Math]: <03/>
 [Exercise 4. Variables and Names]: <04/>
+[Exercise 5. More Variables and Printing]: <05/>
