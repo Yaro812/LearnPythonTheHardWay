@@ -13,6 +13,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 10. What Was That?]
 * [Exercise 11. Asking Questions]
 * [Exercise 12. Prompting People]
+* [Exercise 13. Parameters, Unpacking, Variables]
 
 License
 ----
@@ -30,3 +31,4 @@ MIT
 [Exercise 10. What Was That?]: <10/>
 [Exercise 11. Asking Questions]: <11/>
 [Exercise 12. Prompting People]: <12/>
+[Exercise 13. Parameters, Unpacking, Variables]: <13/>
