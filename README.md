@@ -7,6 +7,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 4. Variables and Names]
 * [Exercise 5. More Variables and Printing]
 * [Exercise 6. Strings and Text]
+* [Exercise 7. More Printing]
 
 License
 ----
@@ -18,3 +19,4 @@ MIT
 [Exercise 4. Variables and Names]: <04/>
 [Exercise 5. More Variables and Printing]: <05/>
 [Exercise 6. Strings and Text]: <06/>
+[Exercise 7. More Printing]: <07/>
