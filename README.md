@@ -8,6 +8,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 5. More Variables and Printing]
 * [Exercise 6. Strings and Text]
 * [Exercise 7. More Printing]
+* [Exercise 8. Printing, Printing]
 
 License
 ----
@@ -20,3 +21,4 @@ MIT
 [Exercise 5. More Variables and Printing]: <05/>
 [Exercise 6. Strings and Text]: <06/>
 [Exercise 7. More Printing]: <07/>
+[Exercise 8. Printing, Printing]: <08/>
