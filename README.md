@@ -14,6 +14,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 11. Asking Questions]
 * [Exercise 12. Prompting People]
 * [Exercise 13. Parameters, Unpacking, Variables]
+* [Exercise 14. Prompting and Passing]
 
 License
 ----
@@ -32,3 +33,4 @@ MIT
 [Exercise 11. Asking Questions]: <11/>
 [Exercise 12. Prompting People]: <12/>
 [Exercise 13. Parameters, Unpacking, Variables]: <13/>
+[Exercise 14. Prompting and Passing]: <14/>
