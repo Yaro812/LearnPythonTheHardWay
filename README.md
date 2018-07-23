@@ -11,6 +11,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 8. Printing, Printing]
 * [Exercise 9. Printing, Printing]
 * [Exercise 10. What Was That?]
+* [Exercise 11. Asking Questions]
 
 License
 ----
@@ -25,4 +26,5 @@ MIT
 [Exercise 7. More Printing]: <07/>
 [Exercise 8. Printing, Printing]: <08/>
 [Exercise 9. Printing, Printing]: <09/>
-[Exercise 10. What Was That?]: <10/> 
+[Exercise 10. What Was That?]: <10/>
+[Exercise 11. Asking Questions]: <11/>

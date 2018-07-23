@@ -1,0 +1,5 @@
+print("Input first number")
+x = int(input())
+print("Input second number")
+y = int(input())
+print(f"{x} + {y} = {x + y}")
