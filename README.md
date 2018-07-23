@@ -9,6 +9,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 6. Strings and Text]
 * [Exercise 7. More Printing]
 * [Exercise 8. Printing, Printing]
+* [Exercise 9. Printing, Printing]
 
 License
 ----
@@ -22,3 +23,4 @@ MIT
 [Exercise 6. Strings and Text]: <06/>
 [Exercise 7. More Printing]: <07/>
 [Exercise 8. Printing, Printing]: <08/>
+[Exercise 9. Printing, Printing]:<09/>
