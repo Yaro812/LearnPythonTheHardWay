@@ -19,6 +19,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 16. Reading and Writing Files]
 * [Exercise 17. More Files]
 * [Exercise 18. Names, Variables, Code, Functions]
+* [Exercise 19. Functions and Variables]
 
 License
 ----
@@ -42,3 +43,4 @@ MIT
 [Exercise 16. Reading and Writing Files]: <16/>
 [Exercise 17. More Files]: <17/>
 [Exercise 18. Names, Variables, Code, Functions]: <18/>
+[Exercise 19. Functions and Variables]: <19/>
