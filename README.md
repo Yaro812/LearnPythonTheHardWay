@@ -16,6 +16,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 13. Parameters, Unpacking, Variables]
 * [Exercise 14. Prompting and Passing]
 * [Exercise 15. Reading files]
+* [Exercise 16. Reading and Writing Files]
 
 License
 ----
@@ -36,3 +37,4 @@ MIT
 [Exercise 13. Parameters, Unpacking, Variables]: <13/>
 [Exercise 14. Prompting and Passing]: <14/>
 [Exercise 15. Reading files]: <15/>
+[Exercise 16. Reading and Writing Files]: <16/>
