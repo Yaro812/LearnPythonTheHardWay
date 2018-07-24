@@ -15,6 +15,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 12. Prompting People]
 * [Exercise 13. Parameters, Unpacking, Variables]
 * [Exercise 14. Prompting and Passing]
+* [Exercise 15. Reading files]
 
 License
 ----
@@ -34,3 +35,4 @@ MIT
 [Exercise 12. Prompting People]: <12/>
 [Exercise 13. Parameters, Unpacking, Variables]: <13/>
 [Exercise 14. Prompting and Passing]: <14/>
+[Exercise 15. Reading files]: <15/>
