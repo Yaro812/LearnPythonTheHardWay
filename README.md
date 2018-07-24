@@ -17,6 +17,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 14. Prompting and Passing]
 * [Exercise 15. Reading files]
 * [Exercise 16. Reading and Writing Files]
+* [Exercise 17. More Files]
 
 License
 ----
@@ -38,3 +39,4 @@ MIT
 [Exercise 14. Prompting and Passing]: <14/>
 [Exercise 15. Reading files]: <15/>
 [Exercise 16. Reading and Writing Files]: <16/>
+[Exercise 17. More Files]: <17/>
