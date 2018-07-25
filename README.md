@@ -20,6 +20,9 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 17. More Files]
 * [Exercise 18. Names, Variables, Code, Functions]
 * [Exercise 19. Functions and Variables]
+* [Exercise 20. Functions and Files]
+* [Exercise 21. Functions Can Return Something]
+* [Exercise 22. What Do You Know So Far?]
 
 License
 ----
@@ -44,3 +47,6 @@ MIT
 [Exercise 17. More Files]: <17/>
 [Exercise 18. Names, Variables, Code, Functions]: <18/>
 [Exercise 19. Functions and Variables]: <19/>
+[Exercise 20. Functions and Files]: <20/>
+[Exercise 21. Functions Can Return Something]: <21/>
+[Exercise 22. What Do You Know So Far?]: <22/>
