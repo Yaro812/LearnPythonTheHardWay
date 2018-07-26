@@ -23,6 +23,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 20. Functions and Files]
 * [Exercise 21. Functions Can Return Something]
 * [Exercise 22. What Do You Know So Far?]
+* [Exercise 23. Strings, Bytes and Character Encodings]
 
 License
 ----
@@ -50,3 +51,4 @@ MIT
 [Exercise 20. Functions and Files]: <20/>
 [Exercise 21. Functions Can Return Something]: <21/>
 [Exercise 22. What Do You Know So Far?]: <22/>
+[Exercise 23. Strings, Bytes and Character Encodings]: <23/>
