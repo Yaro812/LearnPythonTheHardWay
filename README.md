@@ -25,6 +25,7 @@ Exercises from Learn Python the Hard Way book
 * [Exercise 22. What Do You Know So Far?]
 * [Exercise 23. Strings, Bytes and Character Encodings]
 * [Exercise 24. More Practice]
+* [Exercise 25. Even More Practice]
 
 License
 ----
@@ -54,3 +55,4 @@ MIT
 [Exercise 22. What Do You Know So Far?]: <22/>
 [Exercise 23. Strings, Bytes and Character Encodings]: <23/>
 [Exercise 24. More Practice]: <24/>
+[Exercise 25. Even More Practice]: <25/>
